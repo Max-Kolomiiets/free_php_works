@@ -1,0 +1,23 @@
+a:link, a:visited {
+    color: whitesmoke;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+.jumbotron {
+    color: whitesmoke;
+    background-color: crimson;
+}
+
+.bg-grey {
+    background-color: #f6f6f6;
+}
+.container-fluid {
+    padding: 12px 120px;
+  }
+.bg-area {
+    background-color: #FFFACE;
+}
+.bg-area:focus {
+    background-color: #FFFACE;
+}
